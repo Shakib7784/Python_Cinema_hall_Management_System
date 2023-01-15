@@ -37,7 +37,7 @@ class Hall(Star_Cinema):
 
   
         
-        #storing id and list to the seat distionary
+        #storing id and list to the seat dictionary
         self.seats[self.id]=self.list
        
 
